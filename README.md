@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HamedShabani
 - 👀 I’m interested in neuroscnience
 - 🌱 I’m currently working on retinal coding for bionic vision.
-- 💞️ I’m looking for postdoc position 
+
 
 
 <!---
